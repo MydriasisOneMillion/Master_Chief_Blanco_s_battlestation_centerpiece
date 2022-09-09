@@ -2,7 +2,10 @@
 Its ya boi
 !
 Lets
-[Keep_It_Simple](https://user-images.githubusercontent.com/113202399/189412406-61ec3748-1d15-4bd9-92aa-437411940890.png)
+
+
+
+![Keep_It_Simple](https://user-images.githubusercontent.com/113202399/189412406-61ec3748-1d15-4bd9-92aa-437411940890.png)
 
 
 split Y/N?
