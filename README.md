@@ -9,11 +9,16 @@ Lets
 
 
 split Y/N?
+
+
 size?
 
+
 Layout?
-  Ortholiner or stagged?
-  QWERTY?
+
+Ortholiner or stagged?
+  
+QWERTY?
 
 shape?
 
