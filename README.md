@@ -31,4 +31,14 @@ joystick(s) Y/N?
 
 acctually a giant mouse Y/N? (I'm not 100% sure this is possible)
 
-Other werid bullshit
+Other werid bullshit?
+
+
+put pics for inspiration here:
+
+
+
+
+
+
+
