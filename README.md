@@ -39,6 +39,8 @@ acctually a giant mouse Y/N? (I'm not 100% sure this is possible)
 Other werid bullshit?
 
 
+big_list(https://github.com/BenRoe/awesome-mechanical-keyboard/blob/master/docs/README.md)
+
 put pics for inspiration here:
 
 
